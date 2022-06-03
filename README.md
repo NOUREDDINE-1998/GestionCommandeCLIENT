@@ -1,7 +1,7 @@
 # GestionCommandeCLIENT
 
-it's an apk about management orders of clients with print list of clients also it's bills
-if you want ti login in you must enter login ans password
+it's an apk about management orders of clients with print list of clients also its bills
+if you want to login in, you must enter login and password
 login:  ADMIN
 password : ADMIN
 
